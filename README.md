@@ -61,7 +61,7 @@ I'm Pranesh Mali, a frontend developer passionate about building interactive and
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/greensock/GSAP/master/logo/GSAP_Logo.svg" alt="gsap" width="40" height="40"/>
+    <img src="[https://raw.githubusercontent.com/greensock/GSAP/master/logo/GSAP_Logo.svg](https://images.prismic.io/toyfight/65e1e07d27237c2bb829b9dc_GSAP-Meta-image.jpg?auto=format%2Ccompress&rect=0%2C0%2C2400%2C1260&w=2400&h=1260)" alt="gsap" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
