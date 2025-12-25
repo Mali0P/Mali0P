@@ -3,13 +3,13 @@
 
 ![Profile background](assets/profile_bg.gif)
 
-I'm Pranesh Mali, a frontend developer passionate about building interactive and visually engaging web experiences using **React** and **GSAP**. I enjoy turning design ideas into smooth, responsive websites and exploring modern web technologies like **Zustand**, **TailwindCSS**, and **GSAP**. When I'm not coding, I love experimenting with animations, improving my UI/UX skills, and learning new frameworks and tools to make web apps faster and more dynamic.  
+I'm Pranesh Mali, a frontend developer passionate about building interactive and visually engaging web experiences using **React.js**, **Next,js** and **GSAP**. I enjoy turning design ideas into smooth, responsive websites and exploring modern web technologies like **Zustand**, **TailwindCSS**, and **GSAP**. When I'm not coding, I love experimenting with animations, improving my UI/UX skills, and learning new frameworks and tools to make web apps faster and more dynamic.  
 
 📫 You can reach me at pranesh.malakar.1@gmail.com 
 
 - 🔭 I’m currently working on **Bus Routing System**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Typescript**
 
 - ### 🚀 Projects
 - Portfolio Website  
