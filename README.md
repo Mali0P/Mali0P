@@ -7,8 +7,6 @@ I'm Pranesh Mali, a frontend developer passionate about building interactive and
 
 📫 You can reach me at pranesh.malakar.1@gmail.com 
 
-- 🔭 I’m currently working on **Bus Routing System**
-
 - 🌱 I’m currently learning **Typescript**
 
 - ### 🚀 Projects
